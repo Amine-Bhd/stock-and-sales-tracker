@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Shop Visual Stock & Sales",
+  "description": "A simple, highly visual application to track shop stock and sales, designed for accessibility and ease of use, even for users who may be illiterate. It uses icons and symbols to represent products and actions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
